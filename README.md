@@ -86,9 +86,24 @@ Photovoltaic (PV) systems are a cornerstone of sustainable energy solutions. Yet
 
 | Input Image | Detection Output |
 |-------------|------------------|
-| ![Input](Results/INPUT.jpg) | ![Output](Results/OUTPUT.png) |
+| ![Input](https://raw.githubusercontent.com/hashwanthgogineni/helioscan/main/Results/INPUT.jpg) | ![Output](https://raw.githubusercontent.com/hashwanthgogineni/helioscan/main/Results/OUTPUT.png) |
+
 
 ---
+
+## 🐳 Running the Project with Docker
+
+You can run the API in an isolated and reproducible environment using Docker.
+
+### 🔧 1. Build the Docker Image and Run the Container
+
+From the root directory of the project, run:
+
+```bash
+docker build -t solar-api .
+
+docker run -p 8000:8000 solar-api
+
 
 ### 🔁 Sample curl Request
 
