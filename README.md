@@ -82,15 +82,6 @@ Photovoltaic (PV) systems are a cornerstone of sustainable energy solutions. Yet
 
 ---
 
-## 🖼️ Sample Outputs
-
-| Input Image | Detection Output |
-|-------------|------------------|
-| ![Input](https://raw.githubusercontent.com/hashwanthgogineni/helioscan/main/Results/INPUT.jpg) | ![Output](https://raw.githubusercontent.com/hashwanthgogineni/helioscan/main/Results/OUTPUT.png) |
-
-
----
-
 ## 🐳 Running the Project with Docker
 
 You can run the API in an isolated and reproducible environment using Docker.
