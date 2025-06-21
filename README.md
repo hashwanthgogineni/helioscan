@@ -1,4 +1,4 @@
-# 🔥 ThermalDetector – AI-Driven Detection of Solar Panel Anomalies via Thermal Imaging
+# 🔥 Helioscan – AI-Driven Detection of Solar Panel Anomalies via Thermal Imaging
 
 **Model:** YOLOv9  
 **Domains:** Renewable Energy | Thermal Vision | Computer Vision | FastAPI | YOLO
